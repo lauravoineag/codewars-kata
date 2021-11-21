@@ -1,0 +1,23 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "**Resolved codewars-katas**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauravoineag/codewars-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauravoineag/codewars-kata/issues"
+  },
+  "homepage": "https://github.com/lauravoineag/codewars-kata#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "jest": "^27.3.1"
+  }
+}
